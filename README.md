@@ -1,0 +1,2 @@
+# -Client-Server-File-Transfer
+A C based program allowing files to be transfered from clients to a server. The server can handle multiple concurrent connections and transfer requests, and allows each user to specify the directory they wish to transfer the file to. Users may only transfer files to a directory of which they are a group member of, and additionally each transfered file can be traced back to the source user using the Linux user tag.
